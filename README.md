@@ -102,17 +102,10 @@ graph TD
 | **LLM** | OpenAI GPT-3.5-turbo | Intelligent processing |
 | **Storage** | In-memory | Simplicity (as per requirements) |
 
-## 🛠️ Setup Instructions
+## 🔗 Live Demo
 
-### Prerequisites
-- Node.js 18+
-- OpenAI API Key (Placed in `.env`)
+**Application Link**: [https://ai-job-tracker-khxn.onrender.com/](https://ai-job-tracker-khxn.onrender.com/)
 
-### Installation & Run
-1. `npm install` (Root)
-2. `cd client && npm install`
-3. `cp .env.example .env` (Add your key)
-4. `npm run dev` (Runs both concurrenty)
 
 ## 🧠 AI Strategy
 
@@ -136,9 +129,8 @@ graph TD
 - **Mock Data:** Used for stable demoing of filtering logic; real API integration would be the next step.
 
 ## 🚀 Deployment
-- **Frontend:** Vercel/Netlify.
-- **Backend:** Render/Railway.
-- *Note: Ensure CORS is configured for the production URL.*
+- **Live Platform**: Render
+- **Status**: Production Ready
 
 ---
 Built as a comprehensive AI Engineering assignment.
