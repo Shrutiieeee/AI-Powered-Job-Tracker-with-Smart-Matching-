@@ -1,0 +1,18 @@
+.best-matches {
+    margin-bottom: 2rem;
+}
+
+.best-matches h2 {
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+
+.best-matches-subtitle {
+    color: var(--text-muted);
+    margin-bottom: 1.5rem;
+}
+
+.best-matches-grid {
+    display: grid;
+    gap: 1.5rem;
+}

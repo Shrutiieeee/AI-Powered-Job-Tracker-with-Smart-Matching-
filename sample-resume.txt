@@ -1,0 +1,71 @@
+JOHN DOE
+Full Stack Developer
+
+Email: john.doe@email.com
+Phone: +1-234-567-8900
+Location: Bangalore, India
+LinkedIn: linkedin.com/in/johndoe
+
+SUMMARY
+Experienced Full Stack Developer with 5+ years of expertise in building scalable web applications using modern technologies. Proficient in React, Node.js, TypeScript, and cloud platforms. Passionate about creating efficient, user-friendly solutions.
+
+SKILLS
+Frontend: React, TypeScript, JavaScript, Redux, HTML5, CSS3, Tailwind CSS, Next.js
+Backend: Node.js, Express, Fastify, Python, Django, Flask, REST API, GraphQL
+Databases: PostgreSQL, MongoDB, MySQL, Redis
+Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins, CI/CD, Terraform
+Tools: Git, GitHub, VS Code, Figma, Jira, Postman
+
+EXPERIENCE
+
+Senior Full Stack Developer | Tech Innovations Inc.
+Bangalore, India | Jan 2021 - Present
+- Developed and maintained 10+ React-based web applications serving 100K+ users
+- Built RESTful APIs using Node.js and Express with PostgreSQL database
+- Implemented CI/CD pipelines using Jenkins and Docker, reducing deployment time by 60%
+- Collaborated with cross-functional teams using Agile methodologies
+- Mentored 5 junior developers on React and Node.js best practices
+
+Full Stack Developer | StartupXYZ
+Mumbai, India | Jun 2019 - Dec 2020
+- Created responsive web applications using React, Redux, and Material-UI
+- Developed backend services with Python Django and PostgreSQL
+- Integrated third-party APIs and payment gateways
+- Optimized application performance, improving load times by 40%
+- Participated in code reviews and technical design discussions
+
+Frontend Developer | WebSolutions Ltd.
+Pune, India | Jul 2018 - May 2019
+- Built interactive user interfaces using React and JavaScript
+- Collaborated with designers to implement pixel-perfect designs
+- Wrote unit tests using Jest and React Testing Library
+- Fixed bugs and improved code quality across multiple projects
+
+EDUCATION
+
+Bachelor of Technology in Computer Science
+Indian Institute of Technology, Delhi | 2014 - 2018
+GPA: 8.5/10
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- MongoDB Certified Developer
+- React Advanced Patterns (Udemy)
+
+PROJECTS
+
+E-Commerce Platform
+- Built a full-stack e-commerce platform using React, Node.js, and MongoDB
+- Implemented user authentication, product catalog, shopping cart, and payment integration
+- Deployed on AWS using Docker and Kubernetes
+
+Task Management App
+- Created a collaborative task management application with real-time updates
+- Used React, TypeScript, Node.js, Socket.io, and PostgreSQL
+- Implemented drag-and-drop functionality and team collaboration features
+
+LANGUAGES
+English (Fluent), Hindi (Native)
+
+INTERESTS
+Open source contribution, Tech blogging, Hackathons, Photography

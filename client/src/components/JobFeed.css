@@ -1,0 +1,53 @@
+.job-feed {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    gap: 2rem;
+    align-items: start;
+}
+
+.job-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.job-list-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.job-list-header h2 {
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.job-grid {
+    display: grid;
+    gap: 1.5rem;
+}
+
+.loading-container {
+    display: flex;
+    justify-content: center;
+    padding: 3rem;
+}
+
+.no-jobs {
+    text-align: center;
+    padding: 3rem;
+    background: var(--surface);
+    border-radius: 12px;
+    border: 1px solid var(--border);
+}
+
+.no-jobs p {
+    margin-bottom: 1rem;
+    color: var(--text-muted);
+}
+
+@media (max-width: 968px) {
+    .job-feed {
+        grid-template-columns: 1fr;
+    }
+}
